@@ -13,7 +13,7 @@
 <!-- introduction -->
 ## About The Project
 
-Built a landing page for a start-up company called Masroofi.
+Building a landing page for a start-up company called Masroofi.
 <!-- technology -->
 ## Built With
 
