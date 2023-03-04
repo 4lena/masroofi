@@ -14,6 +14,10 @@
 ## About The Project
 
 Building a landing page for a start-up company called Masroofi.
+
+## Website link
+https://itt427.github.io/Masroofi/index.html
+
 <!-- technology -->
 ## Built With
 
